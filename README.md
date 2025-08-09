@@ -2,7 +2,7 @@
 
 ## Overview
 
-End-to-end computer vision project implementing an **automatic license plate recognition (ALPR)** pipeline using a custom-trained YOLOv11 model for detection and an OCR module for character recognition. The system detects license plates in vehicle images, crops them, and decodes plate text for use in automated traffic monitoring, parking management, and security applications.
+Self-directed Computer Vision learning project implementing an ALPR pipeline using a custom-trained YOLOv11 model for object detection, OpenCV for image preprocessing and EasyOCR for character recognition. 
 
 ### Dataset Sourced from Roboflow Universe
 [Dataset Source Link](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e)
