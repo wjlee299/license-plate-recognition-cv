@@ -11,6 +11,8 @@ Self-directed Computer Vision learning project implementing an ALPR pipeline usi
 ## Demo
 Try the live demo on HuggingFace Spaces:  
 https://huggingface.co/spaces/wenjin-lee/license-plate-recognition
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/7fa51db3-1358-47c9-94ef-f63f244e0135" />
+
 
 ## Features
 
